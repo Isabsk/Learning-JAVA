@@ -25,6 +25,7 @@ class Hello {
         System.out.println(sum); // Output: 15
     }
 }
+```
 
 - `class Hello` defines a class named **Hello**.
 - `public static void main(String[] args)` is the **entry point** of a Java application.
