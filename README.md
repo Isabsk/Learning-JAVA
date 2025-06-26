@@ -15,7 +15,7 @@ Each folder (`Day01`, `Day02`, etc.) contains code and notes for that day's prac
 ## 🛠 Tools Used
 
 - Visual Studio Code with Java Extension Pack
-- Java Development Kit (JDK 17+)
+- Java Development Kit (JDK 21+)
 - Git & GitHub for version control
 
 ## 🔗 Updates
