@@ -7,7 +7,8 @@ public class PassChecker {
         String userInput;
         do {
             System.out.print("Enter your password: ");
-            userInput = sc.nextLine();
+            userInput = sc.nextLine();f
+            System.out.println(userInput);
             if (userInput.equals(password)) {
                 System.out.println("Access granted.");
                 break;

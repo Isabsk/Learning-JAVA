@@ -6,7 +6,7 @@ public class GuessTheNumber {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        int numberToGuess = random.nextInt(100) + 1;
+        int numberToGuess = random.nextInt(101);
         int tries = 0;
 
         System.out.println("Welcome to 'Guess the Number'!");
